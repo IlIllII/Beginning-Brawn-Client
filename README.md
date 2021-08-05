@@ -14,13 +14,13 @@ And here is the landing page:
 
 ![homepage-screencap](https://user-images.githubusercontent.com/78166995/128382234-1be58aa5-a459-48d2-9076-180e8182cbf6.PNG)
 
-Feel free to make an account and peruse the app.
+I am not much of a designer so you will have to excuse the appearance and copy in the app. Feel free to make an account and peruse at your leisure.
 
 ## Technical Notes
 
-The app is a Single Page App made with Vue js. It uses a Mongo database that is accessed via the API of a separate server I wrote with Express.
+The app is a Single Page App made with Vue js. It uses a cloud hosted Mongo database that is accessed via the API of a separate server written with Express.
 
-If you want to run the project yourself, there are something things you will have to do. First and foremost is setting up this repo:
+If you want to run the project yourself, there are some things you will have to do. First and foremost is setting up this repo:
 
 
 ### Project setup
