@@ -10,6 +10,7 @@ const production = "https://beginning-brawn-api.herokuapp.com";
 const development = "http://localhost:3000";
 
 const baseURL = (process.env.NODE_ENV ? production : development);
+baseURL = "https://beginning-brawn-api.herokuapp.com";
 
 
 // ******* Have to consider scope issues when using this function, there may be a better way to make a wrapper function for this. Particularly, check:
