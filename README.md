@@ -8,7 +8,7 @@ Not only can users log their workouts and track their progress, but the app prov
 
 Below you can see an example of a workout log:
 
-<span style="display:block;text-align:center">![Workout-screencap](https://user-images.githubusercontent.com/78166995/128382249-20998e8a-4c3c-415f-8970-54081aeca202.PNG)</span>
+<span style="display:block;text-align:center">![Workout-screencap]https://user-images.githubusercontent.com/78166995/128382249-20998e8a-4c3c-415f-8970-54081aeca202.PNG)</span>
 
 
 And here is the landing page:
